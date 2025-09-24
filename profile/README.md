@@ -45,7 +45,7 @@ Whether it’s fixing bugs, adding new models, or improving documentation, every
 ---
 
 ## 📬 Connect  
-👨‍💻 Created and maintained by **Nitish**  
+👨‍💻 Created and maintained by **Nitish** & **Sarweshmaran**  
 🌐 Organization: [Nitish AI Labs](https://github.com/NitishAILabs)  
 📧 Contact: *nitishdeveloper2003@gmail.com*  
 
