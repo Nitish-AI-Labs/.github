@@ -44,15 +44,9 @@ Whether it’s fixing bugs, adding new models, or improving documentation, every
 
 ---
 
-## 📜 License  
-Most repositories are released under the **MIT License** (unless stated otherwise).  
-Feel free to use, modify, and distribute with attribution.  
-
----
-
 ## 📬 Connect  
 👨‍💻 Created and maintained by **Nitish**  
 🌐 Organization: [Nitish AI Labs](https://github.com/NitishAILabs)  
-📧 Contact: *[your email here]*  
+📧 Contact: *nitishdeveloper2003@gmail.com*  
 
 Let’s build the **future of AI-powered solutions** together ✨  
