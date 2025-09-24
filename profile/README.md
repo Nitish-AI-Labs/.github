@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there # 🚀 Nitish AI Labs  
+# 🚀 Nitish AI Labs  
 
 Welcome to **Nitish AI Labs** – an open initiative dedicated to building **cutting-edge AI-driven solutions** for real-world problems faced in the **software industry and everyday life**.  
 
@@ -38,17 +30,23 @@ This organization hosts a collection of repositories focused on **AI-first solut
 
 ---
 
-## 📌 Example Repositories (Coming Soon)   
+## 📌 Example Repositories (Coming Soon)  
 - `ai-resume-helper` – Analyze resumes against job descriptions with AI  
 - `sales-insight-bot` – Query sales data with natural language and visual insights  
+
+---
+
+## 🤝 Contributing  
+We welcome contributions from developers, researchers, and AI enthusiasts!  
+Whether it’s fixing bugs, adding new models, or improving documentation, every contribution matters.  
+
+👉 Check the individual repo’s **CONTRIBUTING.md** for guidelines.  
 
 ---
 
 ## 📬 Connect  
 👨‍💻 Created and maintained by **Nitish**  
 🌐 Organization: [Nitish AI Labs](https://github.com/NitishAILabs)  
-📧 Contact: *[your email here]*  
+📧 Contact: *nitishdeveloper2003@gmail.com*  
 
 Let’s build the **future of AI-powered solutions** together ✨  
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
