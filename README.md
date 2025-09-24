@@ -31,9 +31,7 @@ This organization hosts a collection of repositories focused on **AI-first solut
 ---
 
 ## 📌 Example Repositories (Coming Soon)  
-- `smart-city-ai-toll-system` – AI-powered toll management for smart cities  
 - `ai-resume-helper` – Analyze resumes against job descriptions with AI  
-- `disease-prediction-vit` – Medical image analysis using Vision Transformers  
 - `sales-insight-bot` – Query sales data with natural language and visual insights  
 
 ---
