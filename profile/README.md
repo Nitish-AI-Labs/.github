@@ -32,7 +32,7 @@ This organization hosts a collection of repositories focused on **AI-first solut
 
 ## 📌 Example Repositories (Coming Soon)  
 - `ai-resume-helper` – Analyze resumes against job descriptions with AI  
-- `sales-insight-bot` – Query sales data with natural language and visual insights  
+- `personal-finance-tracker` – Stores & Track Expenses, Savings and AI Insights for better savings and Investments  
 
 ---
 
