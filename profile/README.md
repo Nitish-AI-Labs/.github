@@ -40,8 +40,6 @@ This organization hosts a collection of repositories focused on **AI-first solut
 We welcome contributions from developers, researchers, and AI enthusiasts!  
 Whether it’s fixing bugs, adding new models, or improving documentation, every contribution matters.  
 
-👉 Check the individual repo’s **CONTRIBUTING.md** for guidelines.  
-
 ---
 
 ## 📬 Connect  
